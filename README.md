@@ -1,2 +1,3 @@
-# studies
-Files related to my studies are here
+# test repo
+
+Files related to my studies will be here
